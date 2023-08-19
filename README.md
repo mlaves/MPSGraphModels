@@ -1,5 +1,7 @@
 # MPSGraphModels
 
+This repository is work in progress.
+
 Implementation of different machine learning models using Apple's Metal Performance Shaders Graph API.
 
 ## Usage
