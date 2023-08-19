@@ -8,5 +8,5 @@ TODO.
 
 ## Contact
 
-Max-Heinrich Laves
+Max-Heinrich Laves  
 [@MaxLaves](https://twitter.com/MaxLaves)
