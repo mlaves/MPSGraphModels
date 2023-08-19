@@ -8,8 +8,10 @@ Implementation of different machine learning models using Apple's Metal Performa
 
 | Model    | Implemented | Note                             |
 |----------|-------------|----------------------------------|
-| VGG16BN  | - [x]       | BN does not compute running mean |
-| ResNet50 | - [ ]       | In progress                      |
+| VGG16BN  | Yes         | BN does not compute running mean |
+| ResNet50 | In progress |                                  |
+| UNet-2D  | Planned     |                                  |
+| UNet-3D  | Planned     |                                  |
 
 ## Usage
 
